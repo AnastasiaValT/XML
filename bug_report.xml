@@ -1,1 +1,10 @@
-
+<Bug Name>:Application crashes upon clicking the SAVE button while creating a new user</Bug Name>
+<Bug ID>234</Bug ID>
+<Area Path>USERS menu-New Users</Area Path>
+<Bild Number>Version Number 5.0.1</Bild Numner>
+<Severity>HIGH</Severity>
+<Priority>HIGH</Priority>
+<Reported By>Anastasia Triphonova</Reported By>
+<Reported On>30.05.22</Reported On>
+<Environment>Windows 10</Windows 10>
+}  
